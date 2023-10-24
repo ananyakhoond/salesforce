@@ -1,16 +1,18 @@
-.box2{
-    display: flex;
-    flex-direction: column;
-    height: 800px;
-    width: 800px;
-    justify-items: center;
-}
-.box3{
-    display: flex;
-    flex-direction: column;
-}
 .A{
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+}
+.G{
+    padding-top: 50px;
+    padding-left: 80px;
+}
+.B{
+    align-items: end;
+
+    
+}
+.H{
+    padding-left: 200px;
+    padding-top: 50px;
+    
 }
